@@ -1,4 +1,4 @@
-### Olá! Eu sou Mykael Leal. Seja bem-vindo(a) ao meu Git ✌️
+## Olá! Eu sou Mykael Leal. Seja bem-vindo(a) ao meu Git ✌️
 
 <div style="display: flex; justify-content: space-between">
   <a href="https://github.com/anuraghazra/github-readme-stats">
