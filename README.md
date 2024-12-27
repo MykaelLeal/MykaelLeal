@@ -1,5 +1,9 @@
 ## Olá! Eu sou Mykael Leal. Seja bem-vindo(a) ao meu Git ✌️
 
+ 👨‍💻 (Desenvolvedor Full Stack)
+ 🎓 (Graduando em Sistemas de Informação)
+ 🖥️ (Técnico em Informática)
+
 <div style="display: flex; justify-content: space-between">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 src="https://github-readme-stats.vercel.app/api?username=MykaelLeal&theme=tokyonight" />
